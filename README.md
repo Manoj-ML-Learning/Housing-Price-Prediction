@@ -3,15 +3,15 @@
          The goal is to predict the House Sales Prices, given the total of 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
 
 **URL**: 
-         https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+         https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview  
 
 **Submitted by**:
-         Name: Manoj Raghupathy
-         UTORid/JOINid: qq316014
+         **Name**: Manoj Raghupathy
+         **UTORid/JOINid**: qq316014
 
 **Machine Learning Solution Workflow followed**:
-         Understanding the problem - Prediction of House Prices
-         Perform the exploratory data analysis - Dataset Visualization
-         Feature Engineering
-         Local validation to prevent overfitting
-         Develop Model - XG Boost
+         1. Understanding the problem - Prediction of House Prices
+         2. Perform the exploratory data analysis - Dataset Visualization
+         3. Feature Engineering
+         4. Local validation to prevent overfitting
+         5. Develop Model - XG Boost
